@@ -1,7 +1,8 @@
 # Hi,  Welcome to my Github 🖖
 
-My name is **Guilherme Rocha** 😃 I'm from Brazil :brazil:
- I'm a student of Systems Analysis and Development, and I'm studying to become a Fullstack developer.👨‍💻
+ Hello, **Guilherme here!** 😃 I'm from Brazil :brazil: 
+
+I'm studying Systems Analysis and Development at UNESA on Rio de Janeiro City to be a Fullstack Dev.👨‍💻
    
 I like to always learn new things and face challenges.
 
