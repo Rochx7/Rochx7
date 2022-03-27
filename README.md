@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Guilherme Rocha 🖖
 🐱‍🚀Apaixonado por animes, tecnologia, games e filmes  
-🐱‍🐉Cursando Análise e Desenvolvimento de Sistemas
+🐱‍🐉Cursando Análise e Desenvolvimento de Sistemas  
+🐱‍👤Desenvolvedor de software na <a href="https://www.mundiale.com.br/">Mundiale</a>
+<img width="20" src="https://user-images.githubusercontent.com/67766327/160305326-e972091d-c29f-4541-ad32-3ceaf0306dfa.png" alt="Mundiale">
  
 <img src="https://user-images.githubusercontent.com/67766327/155027932-50d3ff78-cf45-4685-a850-09d10faa0997.gif"/>
 
