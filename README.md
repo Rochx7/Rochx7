@@ -1,14 +1,32 @@
-## Olá! Eu sou o Guilherme H. Rocha 🖖
-🤖Apaixonado por animes, tecnologia, games e filmes  
-👨‍🎓Formado em Análise e Desenvolvimento de Sistemas  
-🧑‍💻Desenvolvedor de software III na <a href="https://www.mundiale.com.br/">Mundiale</a>
-<img width="20" src="https://user-images.githubusercontent.com/67766327/160305326-e972091d-c29f-4541-ad32-3ceaf0306dfa.png" alt="Mundiale">
- 
-<img src="https://user-images.githubusercontent.com/67766327/155027932-50d3ff78-cf45-4685-a850-09d10faa0997.gif"/>
+<img align="center" width="100%" src="https://github.com/Rochx7/Rochx7/assets/67766327/f0ad4682-7773-46d8-9d35-6801fa3f50e6" />
+  
+  ```js
+const moreAboutMe  = {
+ name: "Guilherme H. Rocha",
+ living: "Rio de Janeiro, RJ, Brasil",
+ born: "Belo Horizonte, MG, Brasil",
+ love: ["Anime", "Games", "Code", "Movies", "Quality of life with my family"],
+ learningAndImproving: "Back-end",
+}
+```
+<img  width="100px" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochx/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](devguilhermerocha@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.rochx/?hl=pt-br) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rochx7)
+### Experiência de trabalho
 
-## 💻 Tecnologias que utilizo no dia dia 
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Type](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![Mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
- 
- 
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/Rochx7/Rochx7/assets/67766327/48094fcc-a968-4e76-931a-134852377bf4"/>](https://www.mundiale.com.br/)
+**Software Developer** \
+[**Mundiale**](https://www.mundiale.com.br/) • Full-time \
+Linguagens & Tecnologias: `React`, `Next.js`, `JavaScript`, `TypeScript`, `MongoDB`\
+Projetos em destaque: Witdesk, Witcom
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+## Linguagens e ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,astro,vite,redux,materialui,tailwind,nodejs,express,mongo,prisma,figma,git,gitlab,sentry" />
+  </a>
+</p>
