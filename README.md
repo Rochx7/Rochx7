@@ -1,4 +1,6 @@
 <img align="center" width="100%" src="https://github.com/Rochx7/Rochx7/assets/67766327/f0ad4682-7773-46d8-9d35-6801fa3f50e6" />
+
+  <img  align="right" width="200" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" />
   
   ```js
 const moreAboutMe  = {
@@ -9,7 +11,7 @@ const moreAboutMe  = {
  learningAndImproving: "Back-end",
 }
 ```
-<img  width="100px" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" />
+
 
 ### Experiência de trabalho
 
