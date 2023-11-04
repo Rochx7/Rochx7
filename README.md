@@ -24,7 +24,7 @@ Linguagens & Tecnologias: `React`, `Next.js`, `JavaScript`, `TypeScript`, `Mongo
 Projetos em destaque: Witdesk, Witcom
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ## Linguagens e ferramentas
 <p align="center">
