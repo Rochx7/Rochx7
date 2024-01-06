@@ -21,7 +21,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Software Developer** \
 [**Mundiale**](https://www.mundiale.com.br/) • Full-time \
 Linguagens & Tecnologias: `React`, `Next.js`, `JavaScript`, `TypeScript`, `MongoDB`\
-Projetos em destaque: Witdesk, Witcom
+Projetos em destaque: ▒▒▒▒▒▒▒
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
@@ -29,6 +29,13 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para um
 ## Linguagens e ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,astro,vite,redux,materialui,tailwind,nodejs,express,mongo,prisma,figma,git,gitlab,sentry" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,astro,vite,redux,materialui,tailwind,nodejs,express,mongo,prisma,vscode,figma,git,gitlab,sentry" />
+  </a>
+</p>
+
+## Aprendendo ou aprimorando
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,idea,nodejs,express" />
   </a>
 </p>
