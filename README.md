@@ -29,13 +29,13 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para um
 ## Linguagens e ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,astro,vite,redux,materialui,tailwind,nodejs,express,mongo,prisma,vscode,figma,git,gitlab,sentry" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,vite,redux,materialui,tailwind,cypress,nodejs,express,mongo,prisma,sequelize,mysql,vscode,figma,git,gitlab,sentry" />
   </a>
 </p>
 
 ## Aprendendo ou aprimorando
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,idea,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,express" />
   </a>
 </p>
