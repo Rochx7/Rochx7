@@ -36,6 +36,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para um
 ## Aprendendo ou aprimorando
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,idea,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,express" />
   </a>
 </p>
