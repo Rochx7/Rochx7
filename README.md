@@ -8,7 +8,7 @@ const moreAboutMe  = {
    living: "Rio de Janeiro, RJ, Brasil",
    born: "Belo Horizonte, MG, Brasil",
    love: ["Anime", "Games", "Code", "Movies", "Quality of life with my family"],
-   learningAndImproving: "Back-end, Mobile",
+   learningAndImproving: "Back-end", "Data structure",
 }
 ```
 
@@ -26,9 +26,9 @@ Projetos em destaque: ▒▒▒▒▒▒▒
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-## Linguagens e ferramentas
+## Linguagens & Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,vite,redux,materialui,tailwind,cypress,nodejs,express,mongo,prisma,sequelize,mysql,vscode,figma,git,gitlab,sentry" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,vite,redux,materialui,tailwind,cypress,nodejs,express,mongo,prisma,sequelize,mysql,postgres,docker,vscode,figma,git,gitlab,sentry,postman" />
   </a>
 </p>
