@@ -12,16 +12,20 @@ const moreAboutMe  = {
 }
 ```
 
-
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/Rochx7/Rochx7/assets/67766327/48094fcc-a968-4e76-931a-134852377bf4"/>](https://www.mundiale.com.br/)
+[<img align="left" height="94px" width="94px" alt="Mutant" src="https://github.com/user-attachments/assets/7eb6d3fc-6604-450b-90d4-29a8eeb9e626"/>](https://www.mutant.com.br/)
+**Software Developer** \
+[**Mutant**](https://www.mutant.com.br/) • Full-time \
+Linguagens & Tecnologias: `React`, `Next.js`, `TypeScript`, `Redux`, `Jest`, `React Testing Library`, `Cypress`, `Webviews`, `CDD`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Mundiale" src="https://github.com/Rochx7/Rochx7/assets/67766327/48094fcc-a968-4e76-931a-134852377bf4"/>](https://www.mundiale.com.br/)
 **Software Developer** \
 [**Mundiale**](https://www.mundiale.com.br/) • Full-time \
-Linguagens & Tecnologias: `React`, `Next.js`, `JavaScript`, `TypeScript`, `MongoDB`\
-Projetos em destaque: ▒▒▒▒▒▒▒
+Linguagens & Tecnologias: `React`, `Next.js`, `JavaScript`, `TypeScript`, `Valtio`, `Tanstack Query`, `MongoDB`\
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
@@ -29,6 +33,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para um
 ## Linguagens & Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,vite,redux,materialui,tailwind,cypress,nodejs,express,mongo,prisma,sequelize,mysql,postgres,docker,vscode,figma,git,gitlab,sentry,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,vite,redux,materialui,tailwind,jest,cypress,nodejs,express,mongo,prisma,sequelize,mysql,postgres,docker,vscode,figma,git,gitlab,sentry,postman,azure" />
   </a>
 </p>
