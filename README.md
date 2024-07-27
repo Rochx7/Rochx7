@@ -8,7 +8,7 @@ const moreAboutMe  = {
    living: "Rio de Janeiro, RJ, Brasil",
    born: "Belo Horizonte, MG, Brasil",
    love: ["Anime", "Games", "Code", "Movies", "Quality of life with my family"],
-   learningAndImproving: "Back-end", "Data structure",
+   learningAndImproving: "Back-end", "Mobile",
 }
 ```
 
