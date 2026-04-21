@@ -1,38 +1,92 @@
-<img align="center" width="100%" src="https://github.com/Rochx7/Rochx7/assets/67766327/f0ad4682-7773-46d8-9d35-6801fa3f50e6" />
+<!-- HEADER -->
 
-  <img  align="right" width="200" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" />
-  
-  ```js
-const moreAboutMe  = {
-   name: "Guilherme H. Rocha",
-   living: "Rio de Janeiro, RJ, Brasil",
-   born: "Belo Horizonte, MG, Brasil",
-   love: ["Anime", "Games", "Code", "Movies", "Quality of life with my family"],
-   learningAndImproving: "Back-end", "Mobile",
+<h1 align="center">Guilherme H. Rocha</h1>
+
+<p align="center">
+  Frontend Engineer • React • Next.js • TypeScript
+</p>
+
+<p align="center">
+  Building scalable, high-performance interfaces for real-world products
+</p>
+
+<br/>
+
+<!-- TYPING -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=1D62E3&center=true&vCenter=true&width=600&lines=4%2B+years+building+scalable+frontends;Design+Systems+%26+Performance;Micro-frontends+%26+Real-time+dashboards" />
+</p>
+
+
+<!-- ABOUT -->
+
+## > about_me.ts
+
+```ts
+const guiro = {
+  role: "Frontend Engineer",
+  experience: "4+ years",
+  location: "Rio de Janeiro, Brazil",
+
+  focus: [
+    "Scalable architectures",
+    "Design Systems",
+    "Performance optimization"
+  ],
+
+  currentWork: "Micro-frontends & design systems",
+
+  stack: ["React", "Next.js", "TypeScript", "Node.js"],
+
+  testing: ["Jest", "React Testing Library", "Cypress", "Playwright"]
 }
 ```
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Mutant" src="https://github.com/user-attachments/assets/7eb6d3fc-6604-450b-90d4-29a8eeb9e626"/>](https://www.mutant.com.br/)
-**Software Developer** \
-[**Mutant**](https://www.mutant.com.br/) • Full-time \
-Linguagens & Tecnologias: `React`, `Next.js`, `TypeScript`, `Redux`, `Jest`, `React Testing Library`, `Cypress`, `Webviews`, `CDD`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Mundiale" src="https://github.com/Rochx7/Rochx7/assets/67766327/48094fcc-a968-4e76-931a-134852377bf4"/>](https://www.mundiale.com.br/)
-**Software Developer** \
-[**Mundiale**](https://www.mundiale.com.br/) • Full-time \
-Linguagens & Tecnologias: `React`, `Next.js`, `JavaScript`, `TypeScript`, `Valtio`, `Tanstack Query`, `MongoDB`\
+<!-- EXPERIENCE -->
+
+## > experience
+
+**Frontend Engineer — Previdenciarista**
+
+* Micro-frontends architecture
+* Design System evolution
+* Clean Code & scalable patterns
+
+**Frontend Engineer — Mutant (Vivo)**
+
+* Webviews applications
+* Component testing (Jest, RTL, Cypress)
+* Storybook documentation
+
+**Frontend Developer — Mundiale**
+
+* Legacy migration → Next.js
+* Real-time dashboards
+* Performance improvements
+
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rochx/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+<!-- TECH STACK -->
 
-## Linguagens & Ferramentas
+## > tech_stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,vite,redux,materialui,tailwind,jest,cypress,nodejs,express,mongo,prisma,sequelize,mysql,postgres,docker,vscode,figma,git,gitlab,sentry,postman,azure" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,vscode,figma,redux,jest,cypress&theme=dark&perline=8" />
+</p>
+
+<!-- FEATURED PROJECTS -->
+
+<!-- ==TODO: ADD PROJECTS== -->
+
+<!-- CONTACT -->
+
+## > let's_connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rochx/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
