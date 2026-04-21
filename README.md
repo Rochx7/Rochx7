@@ -24,7 +24,7 @@
 ## > about_me.ts
 
 ```ts
-const guiro = {
+const guiRocha = {
   role: "Frontend Engineer",
   experience: "4+ years",
   location: "Rio de Janeiro, Brazil",
