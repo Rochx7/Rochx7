@@ -1,21 +1,14 @@
 <!-- HEADER -->
-
-<h1 align="center">Guilherme H. Rocha</h1>
-
-<p align="center">
-  Frontend Engineer • React • Next.js • TypeScript
-</p>
+<img align="center" width="100%" src="https://github.com/Rochx7/Rochx7/assets/67766327/f0ad4682-7773-46d8-9d35-6801fa3f50e6" />
 
 <p align="center">
-  Building scalable, high-performance interfaces for real-world products
+  React • Next.js • TypeScript • Node
 </p>
-
-<br/>
 
 <!-- TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=1D62E3&center=true&vCenter=true&width=600&lines=4%2B+years+building+scalable+frontends;Design+Systems+%26+Performance;Micro-frontends+%26+Real-time+dashboards" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=4%2B+years+building+scalable+frontends;Design+Systems+%26+Performance;Micro-frontends+%26+Real-time+dashboards" />
 </p>
 
 
