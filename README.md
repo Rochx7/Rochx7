@@ -19,7 +19,7 @@
 ```ts
 const guiRocha = {
   role: "Frontend Engineer",
-  experience: "4+ years",
+  experience: "5 years",
   location: "Rio de Janeiro, Brazil",
 
   focus: [
@@ -33,6 +33,8 @@ const guiRocha = {
   stack: ["React", "Next.js", "TypeScript", "Node.js"],
 
   testing: ["Jest", "React Testing Library", "Cypress", "Playwright"]
+
+  learning:["DevOps"]
 }
 ```
 
