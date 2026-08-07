@@ -8,7 +8,7 @@
 <!-- TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=4%2B+years+building+scalable+frontends;Design+Systems+%26+Performance;Micro-frontends+%26+Real-time+dashboards" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=5+years+building+scalable+frontends;Design+Systems+%26+Performance;Micro-frontends+%26+Real-time+dashboards" />
 </p>
 
 
