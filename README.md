@@ -32,7 +32,7 @@ const guiRocha = {
 
   stack: ["React", "Next.js", "TypeScript", "Node.js"],
 
-  testing: ["Jest", "React Testing Library", "Cypress", "Playwright"]
+  testing: ["Jest", "React Testing Library", "Cypress", "Playwright"],
 
   learning:["DevOps"]
 }
